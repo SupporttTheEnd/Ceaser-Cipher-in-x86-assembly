@@ -1,6 +1,4 @@
-; UMBC - CMSC 313 - Fall 2023 - Proj3
 ; Author: Andrew Tang
-; ID: AI94171
 ; Date: 11/27/2023
 ; Description: This is a program that takes in a shift value and applies that shift
 ; as a caesar cipher to use inputed text. It has two checks, one to make sure that the shift
